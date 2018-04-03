@@ -1,0 +1,85 @@
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll.config
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.pdb
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.xml
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.dll
+G:\X-Experiment\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.pdb
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll.config
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.pdb
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.xml
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.dll
+C:\Users\Ussl\Desktop\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.pdb
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll.config
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.pdb
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.xml
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.dll
+E:\IDB-Round_32(C#)\Module-08 Azure\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.pdb
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll.config
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\SunglassStoreApp.pdb
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\EntityFramework.SqlServer.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Razor.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Deployment.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Webpages.Razor.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Helpers.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\bin\System.Web.Mvc.xml
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.dll
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.pdb
+G:\IDB-C# Folder\Module-08(Azure)\Final-SunglassStoreApp\SunglassStoreApp\obj\Debug\SunglassStoreApp.csprojResolveAssemblyReference.cache
